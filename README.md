@@ -1,4 +1,8 @@
-### <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>Hi, I'm Vishal, a software engineer from India
+## Hi, I'm Vishal <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
+On this side of window i like to break stuff
+- 🔭 I’m currently working on breaking new stuff
+- 🌱 I’m currently learning JS
+- ⚡ Fun fact: It's better to risk breaking something than to never try for fear of breaking it
 
 <!--
 **Vishal-Vashisht/Vishal-Vashisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
