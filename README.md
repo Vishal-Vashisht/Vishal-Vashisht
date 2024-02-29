@@ -11,6 +11,7 @@ On this side of window i like to break stuff
 
 ### ✨&nbsp; About Me
 
+I'm backend developer with 2 + year of experience in developing enterprise applications
 <!--
 **Vishal-Vashisht/Vishal-Vashisht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
