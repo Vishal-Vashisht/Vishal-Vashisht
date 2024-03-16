@@ -1,7 +1,7 @@
 ## Hi, I'm Vishal <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/>
 On this side of window i like to break stuff
 - 🔭 Always exploring the latest in web technologies and backend frameworks 😄
-- 🌱 I’m currently learning Building projects
+- 🌱 I’m currently learning and Building projects
 - ⚡ Fun fact: It's better to risk breaking something than to never try for fear of breaking it
 
 🔗 &nbsp;**Connect with me**
